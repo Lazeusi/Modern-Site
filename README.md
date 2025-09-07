@@ -1,6 +1,8 @@
 # Modern-Site 🌀
 
 A modern Django-based website project.
+Template -> https://templatemo.com
+This is website just for learning Django 😎🤞
 
 ## 🚀 Features
 - Built with [Django](https://www.djangoproject.com/)
@@ -31,8 +33,9 @@ A modern Django-based website project.
 ## 📂 Project Structure
 Modern-Site/
 
-│── venv/              
-│── mysite/            
+│── pages/             
+│── mysite/ 
+│── templates/           
 │── manage.py          
 │── requirements.txt   
 │── README.md          
@@ -43,3 +46,6 @@ Feel free to fork this project, submit issues, and send pull requests.
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+## 😶‍🌫️ HOW USE?
+- write /admin after localhost and put your image, title and go back to home page 
