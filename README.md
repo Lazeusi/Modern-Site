@@ -30,12 +30,13 @@ A modern Django-based website project.
 
 ## 📂 Project Structure
 Modern-Site/
-   │── venv/              
-   │── mysite/            
-   │── manage.py          
-   │── requirements.txt   
-   │── README.md          
-   │── .gitignore
+
+│── venv/              
+│── mysite/            
+│── manage.py          
+│── requirements.txt   
+│── README.md          
+│── .gitignore
 
 ## 🤝 Contributing
 Feel free to fork this project, submit issues, and send pull requests.
