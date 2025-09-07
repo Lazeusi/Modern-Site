@@ -30,11 +30,11 @@ A modern Django-based website project.
 
 ## 📂 Project Structure
 Modern-Site/
-│── venv/              # Virtual environment (ignored by git)
-│── mysite/            # Main Django project
-│── manage.py          # Django project manager
-│── requirements.txt   # Dependencies
-│── README.md          # Project documentation
+│── venv/              
+│── mysite/            
+│── manage.py          
+│── requirements.txt   
+│── README.md          
 │── .gitignore
 
 ## 🤝 Contributing
