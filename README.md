@@ -9,7 +9,7 @@ A modern Django-based website project.
 
 ## 🛠 Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/username/Modern-Site.git
+   git clone https://github.com/Lazeusi/Modern-Site.git
    cd Modern-Site
 
 2. Create and activate a virtual environment:
