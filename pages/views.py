@@ -1,6 +1,7 @@
 from django.shortcuts import render
-
+from .models import SlideImges
 # Create your views here.
 
 def home(request):
-    return render(request, 'pages/home.html')
+    images = SlideImges.objects.all()
+    return render(request, 'pages/index.html' , {'images':images})
